@@ -43,7 +43,3 @@ Three models were evaluated using 5-fold Stratified Cross-Validation:
 * **Data Visualization:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-learn, XGBoost
 * **Handling Imbalance:** Imbalanced-learn (SMOTE)
-
-## Output
-The final, optimized model was exported using Pickle and saved as: 
- `xgboost_model.pkl`
